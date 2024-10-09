@@ -63,7 +63,7 @@ body {
 }
 
 .home-page {
-    background-image: url('../image/H1.jpg');
+    background-image: url('.../images/H1.jpg');
     background-size: cover;
     background-position: center;
 }
